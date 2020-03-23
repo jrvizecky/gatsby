@@ -11,4 +11,4 @@ const MenuItem = ({ menuItem, wordPressUrl }) => {
   )
 }
 
-export default MenuItems
+export default MenuItem
